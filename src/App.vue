@@ -1,7 +1,12 @@
+<!--
+ * @Date: 2022-01-05 17:45:57
+ * @LastEditors: 曾令宇
+ * @LastEditTime: 2022-01-06 11:05:56
+ * @FilePath: /project-enigma/src/App.vue
+-->
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
   </div>
   <router-view/>
 </template>
